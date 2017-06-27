@@ -1,0 +1,394 @@
+# depslib dependency file v1.0
+1493459163 source:/home/mohamed/Desktop/Shell project/Compiler/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+	"NFA_to_DFA.h"
+	"D_state.h"
+	"Min_DFA.h"
+	"Parser.h"
+	"NFA.h"
+	"Reader.h"
+	"Matcher.h"
+	"Parser_Engine.h"
+
+1491690336 /home/mohamed/Desktop/Shell project/Compiler/include/State.h
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491705988 source:/home/mohamed/Desktop/Shell project/Compiler/src/State.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+
+1491755365 source:/home/mohamed/Desktop/Shell project/Compiler/src/D_state.cpp
+	"D_state.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1491698128 /home/mohamed/Desktop/Shell project/Compiler/include/D_state.h
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491706674 source:/home/mohamed/Desktop/Shell project/Compiler/src/NFA_to_DFA.cpp
+	"NFA_to_DFA.h"
+	<bits/stdc++.h>
+	"State.h"
+	"D_state.h"
+
+1491677408 /home/mohamed/Desktop/Shell project/Compiler/include/NFA_to_DFA.h
+	"D_state.h"
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491705988 source:/home/mohamed/trys/Compiler/src/State.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+
+1491690336 /home/mohamed/trys/Compiler/include/State.h
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491706640 source:/home/mohamed/trys/Compiler/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+	"NFA_to_DFA.h"
+	"D_state.h"
+	"Min_DFA.h"
+	"Parser.h"
+	"NFA.h"
+
+1491677408 /home/mohamed/trys/Compiler/include/NFA_to_DFA.h
+	"D_state.h"
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491698128 /home/mohamed/trys/Compiler/include/D_state.h
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491706667 source:/home/mohamed/trys/Compiler/src/D_state.cpp
+	"D_state.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1491706673 source:/home/mohamed/trys/Compiler/src/NFA_to_DFA.cpp
+	"NFA_to_DFA.h"
+	<bits/stdc++.h>
+	"State.h"
+	"D_state.h"
+
+1491706759 source:/home/mohamed/trys/Compiler/src/Min_DFA.cpp
+	"Min_DFA.h"
+	<D_state.h>
+	<bits/stdc++.h>
+
+1491706376 /home/mohamed/trys/Compiler/include/Min_DFA.h
+	<bits/stdc++.h>
+	"D_state.h"
+
+1491684116 source:/home/mohamed/trys/Compiler/src/NFA.cpp
+	"NFA.h"
+	<bits/stdc++.h>
+
+1490572618 /home/mohamed/trys/Compiler/include/NFA.h
+	"State.h"
+
+1491686380 source:/home/mohamed/trys/Compiler/src/Parser.cpp
+	"Parser.h"
+	<bits/stdc++.h>
+
+1490566497 /home/mohamed/trys/Compiler/include/Parser.h
+	<bits/stdc++.h>
+	"NFA.h"
+
+1491841591 source:/home/mohamed/Desktop/Shell project/Compiler samir/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+	"NFA_to_DFA.h"
+	"D_state.h"
+	"Min_DFA.h"
+	"Parser.h"
+	"NFA.h"
+	"Reader.h"
+	"Matcher.h"
+
+1491690336 /home/mohamed/Desktop/Shell project/Compiler samir/include/State.h
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491677408 /home/mohamed/Desktop/Shell project/Compiler samir/include/NFA_to_DFA.h
+	"D_state.h"
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491698128 /home/mohamed/Desktop/Shell project/Compiler samir/include/D_state.h
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1491706376 /home/mohamed/Desktop/Shell project/Compiler samir/include/Min_DFA.h
+	<bits/stdc++.h>
+	"D_state.h"
+
+1490566498 /home/mohamed/Desktop/Shell project/Compiler samir/include/Parser.h
+	<bits/stdc++.h>
+	"NFA.h"
+
+1490572618 /home/mohamed/Desktop/Shell project/Compiler samir/include/NFA.h
+	"State.h"
+
+1491755365 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/D_state.cpp
+	"D_state.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1491773206 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/Min_DFA.cpp
+	"Min_DFA.h"
+	<D_state.h>
+	<bits/stdc++.h>
+
+1491684116 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/NFA.cpp
+	"NFA.h"
+	<bits/stdc++.h>
+
+1491706674 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/NFA_to_DFA.cpp
+	"NFA_to_DFA.h"
+	<bits/stdc++.h>
+	"State.h"
+	"D_state.h"
+
+1491686380 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/Parser.cpp
+	"Parser.h"
+	<bits/stdc++.h>
+
+1491705988 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/State.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"State.h"
+
+1491736900 /home/mohamed/Desktop/Shell project/Compiler samir/include/Reader.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<iostream>
+	<fstream>
+	<string>
+
+1491841318 /home/mohamed/Desktop/Shell project/Compiler samir/include/Matcher.h
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+	<iostream>
+	<string>
+
+1491843966 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/Matcher.cpp
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+
+1491736982 source:/home/mohamed/Desktop/Shell project/Compiler samir/src/Reader.cpp
+	"Reader.h"
+	<iostream>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<iostream>
+	<fstream>
+	<string>
+
+1491706376 /home/mohamed/Desktop/Shell project/Compiler/include/Min_DFA.h
+	<bits/stdc++.h>
+	"D_state.h"
+
+1490566498 /home/mohamed/Desktop/Shell project/Compiler/include/Parser.h
+	<bits/stdc++.h>
+	"NFA.h"
+
+1490572618 /home/mohamed/Desktop/Shell project/Compiler/include/NFA.h
+	"State.h"
+
+1491736900 /home/mohamed/Desktop/Shell project/Compiler/include/Reader.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<iostream>
+	<fstream>
+	<string>
+
+1491841318 /home/mohamed/Desktop/Shell project/Compiler/include/Matcher.h
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+	<iostream>
+	<string>
+
+1493036449 source:/home/mohamed/Desktop/Shell project/Compiler/src/Matcher.cpp
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	"State.h"
+	<string>
+	<vector>
+	<map>
+	<set>
+	"D_state.h"
+
+1491773206 source:/home/mohamed/Desktop/Shell project/Compiler/src/Min_DFA.cpp
+	"Min_DFA.h"
+	<D_state.h>
+	<bits/stdc++.h>
+
+1491684116 source:/home/mohamed/Desktop/Shell project/Compiler/src/NFA.cpp
+	"NFA.h"
+	<bits/stdc++.h>
+
+1491686380 source:/home/mohamed/Desktop/Shell project/Compiler/src/Parser.cpp
+	"Parser.h"
+	<bits/stdc++.h>
+
+1491736982 source:/home/mohamed/Desktop/Shell project/Compiler/src/Reader.cpp
+	"Reader.h"
+	<iostream>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<iostream>
+	<fstream>
+	<string>
+
+1493417875 source:/home/mohamed/Desktop/Shell project/Compiler/CFG_Reader.cpp
+	"CFG_Reader.h"
+	"Rule.h"
+	"CFG.h"
+	<bits/stdc++.h>
+
+1493316496 /home/mohamed/Desktop/Shell project/Compiler/CFG_Reader.h
+	<string>
+	<vector>
+	<map>
+	<set>
+	"Rule.h"
+
+1493322048 /home/mohamed/Desktop/Shell project/Compiler/Rule.h
+	<string>
+	<vector>
+	<map>
+	<set>
+
+1493421902 /home/mohamed/Desktop/Shell project/Compiler/CFG.h
+	<string>
+	<vector>
+	<map>
+	<set>
+	"Rule.h"
+	<iostream>
+	<string>
+
+1493322775 source:/home/mohamed/Desktop/Shell project/Compiler/Left_Handling.cpp
+	"Left_Handling.h"
+	"CFG.h"
+
+1493181576 /home/mohamed/Desktop/Shell project/Compiler/Left_Handling.h
+	"bits/stdc++.h"
+	"Rule.h"
+
+1493448497 /home/mohamed/Desktop/Shell project/Compiler/Parser_Engine.h
+	<string>
+	<vector>
+	<map>
+	<set>
+	<stack>
+
+1493459081 source:/home/mohamed/Desktop/Shell project/Compiler/Parser_Engine.cpp
+	"Parser_Engine.h"
+	"CFG_Reader.h"
+	"CFG.h"
+	"Rule.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	"Left_Handling.h"
+
+1493316740 source:/home/mohamed/Desktop/Shell project/Compiler/Rule.cpp
+	"Rule.h"
+
+1493456168 source:/home/mohamed/Desktop/Shell project/Compiler/CFG.cpp
+	"CFG.h"
+	<sstream>
+	<cstring>
+	<iostream>
+	<bits/stdc++.h>
+
